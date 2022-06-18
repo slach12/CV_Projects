@@ -1,1 +1,1 @@
-# Projekt zawiera przykładowe projekty na potrzeby CV
+# Repozytorium zawiera przykładowe projekty na potrzeby CV.
